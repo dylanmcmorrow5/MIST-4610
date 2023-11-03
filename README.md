@@ -60,60 +60,60 @@ This clinic also stores many different medications, which we have organized in t
 Query 1 lists the equipment ID and name of equipment that is not currently assigned to a room.
 <img width="927" alt="Query 1" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/2771356a-f2f2-45d3-b772-19ce114b9db4">
 
-The provided query is essential for management to identify equipment that is not currently assigned to any room, enabling efficient resource allocation and cost control. It would help managers identify which equipment could be allocated into rooms to ensure that they are maintaining operational efficiency within the medical center.
+Query 1: The provided query is essential for management to identify equipment that is not currently assigned to any room, enabling efficient resource allocation and cost control. It would help managers identify which equipment could be allocated into rooms to ensure that they are maintaining operational efficiency within the medical center.
 
 
 Query 2 lists physicians’ names who did not have any visits on April 29, 2023.
 <img width="1200" alt="Query 2" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/9cc448b4-b172-422d-a24a-9b2b3c03afd2">
 
-This query can allow managers to quickly identify which physicians did not see any patients on a particular day. This will help them when they are scheduling the physicians for the upcoming weeks.
+Query 2: This query can allow managers to quickly identify which physicians did not see any patients on a particular day. This will help them when they are scheduling the physicians for the upcoming weeks.
 
 
 Query 3 lists all physicians and the total number of visits they have conducted.
 <img width="1153" alt="Query 3" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/6d4faa10-be0c-479b-b9e7-0d3fd1d03017">
 
-This query allows managers to monitor physician progress and could be used for Employee of the Week purposes. This would also enable managers to assess the productivity and contributions to patient care of the physicians.By tracking how frequently physicians have patient visits and identifying any underperformance and potential discrepancies.
+Query 3: This query allows managers to monitor physician progress and could be used for Employee of the Week purposes. This would also enable managers to assess the productivity and contributions to patient care of the physicians.By tracking how frequently physicians have patient visits and identifying any underperformance and potential discrepancies.
 
 
 Query 4 calculates the average price of equipment in each room.
 <img width="843" alt="Query 4" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/aa53c606-5df4-450c-b0e6-51eabf1b8b69">
 
-Query 4 allows the clinic managers to see which rooms they have invested the most money into for equipment, and which rooms they have invested the least in. It gives an idea of which rooms could use further investment in equipment in order to improve the care and treatment for patients.
+Query 4: This query allows the clinic managers to see which rooms they have invested the most money into for equipment, and which rooms they have invested the least in. It gives an idea of which rooms could use further investment in equipment in order to improve the care and treatment for patients.
 
 
 Query 5 lists the patients with a total billing amount exceeding 3000 dollars.
 <img width="1027" alt="Query 5" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/5fc26b43-3c9b-4cfd-8acc-b58e45a4dd4e">
 
-Query 5 enables clinic managers to find which patients have spent $3000 or more on a single bill for a visit, in case the the managers would like to decide to give a future discount or rebate to those patients.
+Query 5: This query enables clinic managers to find which patients have spent $3000 or more on a single bill for a visit, in case the the managers would like to decide to give a future discount or rebate to those patients.
 
 
 Query 6 lists the patient names and the number of visits they have whose status is not ‘Canceled’.
 <img width="1042" alt="Query 6" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/6da72248-03ee-44d2-a2fb-6c084c5f3a07">
 
-Query 6 permits clinic managers to identify the number of visits a patient has scheduled and actually attended. Canceled appointments are frequent occurrences for clinics. Therefore it is important for managers to have the ability to omit them when finding the number of appointments a patient has had.
+Query 6: This query permits clinic managers to identify the number of visits a patient has scheduled and actually attended. Canceled appointments are frequent occurrences for clinics. Therefore it is important for managers to have the ability to omit them when finding the number of appointments a patient has had.
 
 
 Query 7 displays the name (last name and first name concatenated) of the physician and the amount of billing he has generated. Order results in a descending value of dollars’ worth of billing.
 <img width="1200" alt="Query 7" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/839f89c0-09b7-41b3-b0ff-e698cc588f15">
 
-Query 7 grants the clinic the capability to find the total billing amount each doctor has generated. There are numerous reasons this is valuable. For instance, a physician could be overcharging patients accidentally, or maybe the clinic is interested in seeing the physicians who have produced the most revenue so that the clinic can give them a salary bonus.
+Query 7: This query grants the clinic the capability to find the total billing amount each doctor has generated. There are numerous reasons this is valuable. For instance, a physician could be overcharging patients accidentally, or maybe the clinic is interested in seeing the physicians who have produced the most revenue so that the clinic can give them a salary bonus.
 
 
 Query 8 lists the five suppliers that have supplied the most medications, and the number of medications have they have supplied
 <img width="1059" alt="Query 8" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/765640d4-106b-4b5b-8bc6-333030934a31">
 
-Query 8 also offers a valuable overview of the suppliers that have consistently provided the highest number of medications, allowing managers to make informed decisions regarding supplier relationships, when to negotiate better terms, and to enhance the clinic's overall medication inventory management.
+Query 8: This query also offers a valuable overview of the suppliers that have consistently provided the highest number of medications, allowing managers to make informed decisions regarding supplier relationships, when to negotiate better terms, and to enhance the clinic's overall medication inventory management.
 
 Query 9 lists the visit with the highest number of tests performed.
 <img width="810" alt="Query 9" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/8a9d16fa-d179-42a1-aacf-96286cc1de52">
 
-Query 9 allows managers to identify the highest amount of tests conducted during one visit. Perhaps they are considering adding an additional charge if a certain number of tests are conducted, and they wish to see the largest number in order to help them make a more informed decision.
+Query 9: This query allows managers to identify the highest amount of tests conducted during one visit. Perhaps they are considering adding an additional charge if a certain number of tests are conducted, and they wish to see the largest number in order to help them make a more informed decision.
 
 
 Query 10 lists the number of bills of each patient with an amount that is greater than their own average bill amount
 <img width="1258" alt="Query 10" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/b18ee07c-0710-4e6b-a28d-64f756eccbae">
 
-Query 10 allows the clinic staff to give more detailed information on billing to their patients. A patient who has had numerous visits may want to know the number of visits that have exceeded the average billing amount of one of their own visits.
+Query 10: This query allows the clinic staff to give more detailed information on billing to their patients. A patient who has had numerous visits may want to know the number of visits that have exceeded the average billing amount of one of their own visits.
 
 
 ## Database Information:
