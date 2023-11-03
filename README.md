@@ -3,7 +3,7 @@
 39217 Group 7
 ## Team Members:
 1. Dylan McMorrow [@DylanMcMorrow](https://github.com/dylanmcmorrow5/MIST4610GroupProject1/blob/main/README.md)
-2. Aafreen Anjum https://github.com/aanjum2003/healthcare/blob/main/README%20(1).md
+2. Aafreen Anjum [@Aafreen Anjum](https://github.com/aanjum2003/healthcare/blob/main/README%20(1).md)
 3. Jack Drummond
 4. Ishi Gupta
 5. Miral Lakhani
