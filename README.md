@@ -2,7 +2,7 @@
 ## Team Name:
 39217 Group 7
 ## Team Members:
-1. Dylan McMorrow
+1. Dylan McMorrow https://github.com/dylanmcmorrow5/MIST4610GroupProject1/blob/main/README.md
 2. Aafreen Anjum
 3. Jack Drummond
 4. Ishi Gupta
