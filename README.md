@@ -13,6 +13,10 @@ Our primary goal is to create a relational database that significantly improves 
 Moreover, we aim to implement fully functional query capabilities on this data. These queries will not only facilitate day-to-day operations but also yield valuable business insights into the medical center's functioning. This enhanced database will provide us with a comprehensive and detailed view of patient visits, medical records, physician-patient interactions, room allocation, and billing processes. By effectively leveraging this database, we can drive informed decision-making, streamline operations, and ultimately enhance the overall performance and quality of care within the medical center.
 
 We have attached screenshots from the initial conversation with our client. As evident in our data model below, we adjusted some of the entities originally proposed by our client to better suit their needs and boost efficiency.
+<img width="783" alt="Screenshot 2023-11-03 at 5 55 51 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/4258493f-0a15-47cd-8773-8c673afe26d3">
+<img width="684" alt="Screenshot 2023-11-03 at 5 56 07 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/4cb9ca18-3efd-4078-8000-1b34aea046ee">
+<img width="592" alt="Screenshot 2023-11-03 at 5 58 12 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/3beb6ea4-0b78-45f6-b9aa-7bba098a903c">
+
 ## Data Model:
 Data Model Explanation:
 
