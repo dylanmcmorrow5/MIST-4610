@@ -35,6 +35,7 @@ Each Visit is associated with one bill (also known as an invoice). This is repre
 Each visitRecord then has the potential to generate a Prescription for the patient. One visitRecord can generate multiple prescriptions (E.g. a test revealing a broken bone may lead to multiple pain relief medications prescribed), and each prescription is only tied to one visitRecord. This is evident by the one to many relationship between visitRecord and Prescription. 
 
 This clinic also stores many different medications, which we have organized in the Medications table. The clinic also maintains a list of approved suppliers for which they get their medications from. At this particular clinic, each medication is provided by only one supplier. This is represented by the one to many relationship between the Supplier and Medication tables, as one supplier can provide different medications, but each medication is tied to a particular supplier. Each prescription can only have one medication listed on it. That being said, a particular medication can be listed in multiple different prescriptions. This is evident in the one to many relationship between Medications and Prescriptions.
+
 <img width="678" alt="Screenshot 2023-11-03 at 5 44 54 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/39fa62eb-710c-4e12-8e6b-7f0b1114b0c2">
 
 ## Data Dictionary:
