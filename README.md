@@ -84,8 +84,7 @@ Query 4: This query allows the clinic managers to see which rooms they have inve
 Query 5 lists the patients with a total billing amount exceeding 3000 dollars.
 <img width="1027" alt="Query 5" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/5fc26b43-3c9b-4cfd-8acc-b58e45a4dd4e">
 
-Query 5: This query enables clinic managers to find which patients have spent $3000 or more on a single bill for a visit, in case the the managers would like to decide to give a future discount or rebate to those patients.
-
+Query 5: This query enables clinic managers to find which patients have spent over $3,000 total over all of their visits. The clinic policy is that once a patient has been billed over $3,000 they have the option to enroll in the clinic’s payment plan to pay on a monthly basis. This is designed for patients with frequent visits.
 
 Query 6 lists the patient names and the number of visits they have whose status is not ‘Canceled’.
 <img width="1042" alt="Query 6" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/6da72248-03ee-44d2-a2fb-6c084c5f3a07">
