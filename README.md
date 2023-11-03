@@ -102,6 +102,8 @@ Query 7 grants the clinic the capability to find the total billing amount each d
 Query 8 lists the five suppliers that have supplied the most medications, and the number of medications have they have supplied
 <img width="1059" alt="Query 8" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/765640d4-106b-4b5b-8bc6-333030934a31">
 
+Query 8 provides a rundown of the suppliers that have supplied the highest number of medications. This is important because it can help managers identify which suppliers the clinic should consider negotiating better terms with.
+
 
 Query 9 lists the visit with the highest number of tests performed.
 <img width="810" alt="Query 9" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/8a9d16fa-d179-42a1-aacf-96286cc1de52">
