@@ -66,8 +66,7 @@ Query 1: The provided query is essential for management to identify equipment th
 Query 2 lists physicians’ names who did not have any visits on April 29, 2023.
 <img width="1200" alt="Query 2" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/9cc448b4-b172-422d-a24a-9b2b3c03afd2">
 
-Query 2: This query can allow managers to quickly identify which physicians did not see any patients on a particular day. This will help them when they are scheduling the physicians for the upcoming weeks.
-
+Query 2: This query can allow managers to quickly identify which physicians did not see any patients on a particular day. This provides information that will be useful when they are scheduling the physicians for the upcoming weeks. The insights we derive from this query will help managers fine tune each physician’s schedule which is important for the overall success of the medical center.
 
 Query 3 lists all physicians and the total number of visits they have conducted.
 <img width="1153" alt="Query 3" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/6d4faa10-be0c-479b-b9e7-0d3fd1d03017">
