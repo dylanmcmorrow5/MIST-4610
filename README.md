@@ -72,7 +72,7 @@ This query can allow managers to quickly identify which physicians did not see a
 Query 3 lists all physicians and the total number of visits they have conducted.
 <img width="1153" alt="Query 3" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/6d4faa10-be0c-479b-b9e7-0d3fd1d03017">
 
-This query allows managers to monitor physician progress and could be used for Employee of the Week purposes.
+This query allows managers to monitor physician progress and could be used for Employee of the Week purposes. This would also enable managers to assess the productivity and contributions to patient care of the physicians.By tracking how frequently physicians have patient visits and identifying any underperformance and potential discrepancies.
 
 
 Query 4 calculates the average price of equipment in each room.
@@ -102,8 +102,7 @@ Query 7 grants the clinic the capability to find the total billing amount each d
 Query 8 lists the five suppliers that have supplied the most medications, and the number of medications have they have supplied
 <img width="1059" alt="Query 8" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/765640d4-106b-4b5b-8bc6-333030934a31">
 
-Query 8 provides a rundown of the suppliers that have supplied the highest number of medications. This is important because it can help managers identify which suppliers the clinic should consider negotiating better terms with.
-
+Query 8 also offers a valuable overview of the suppliers that have consistently provided the highest number of medications, allowing managers to make informed decisions regarding supplier relationships, when to negotiate better terms, and to enhance the clinic's overall medication inventory management.
 
 Query 9 lists the visit with the highest number of tests performed.
 <img width="810" alt="Query 9" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/8a9d16fa-d179-42a1-aacf-96286cc1de52">
