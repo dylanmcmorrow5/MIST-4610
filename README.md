@@ -63,3 +63,4 @@ This clinic also stores many different medications, which we have organized in t
 
 
 ## Database Information:
+Name of Database: ns_F2339217Group7
