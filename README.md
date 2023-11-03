@@ -11,4 +11,5 @@
 ## Data Model:
 ## Data Dictionary:
 ## Queries:
+<img width="710" alt="Query Matrix" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/38719c31-c030-440a-bc42-95b7d1faaa86">
 ## Database Information:
