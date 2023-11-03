@@ -38,6 +38,20 @@ This clinic also stores many different medications, which we have organized in t
 <img width="678" alt="Screenshot 2023-11-03 at 5 44 54 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/39fa62eb-710c-4e12-8e6b-7f0b1114b0c2">
 
 ## Data Dictionary:
+<img width="656" alt="Screenshot 2023-11-03 at 6 13 34 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/77ae8788-8ddf-4e88-85dc-1591fcf8d3b7">
+<img width="640" alt="Screenshot 2023-11-03 at 6 13 39 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/c4170ef9-4c8e-4e0c-a8ea-7355b6f30975">
+<img width="667" alt="Screenshot 2023-11-03 at 6 13 44 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/8ea5400d-ca41-4a7f-8c9f-ccba379cd699">
+<img width="663" alt="Screenshot 2023-11-03 at 6 13 49 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/171fbd98-f444-489d-b81f-c21be0715f62">
+<img width="647" alt="Screenshot 2023-11-03 at 6 14 00 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/417eef07-6750-46e8-88d2-faae31ef08f4">
+<img width="649" alt="Screenshot 2023-11-03 at 6 14 05 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/b72742c7-abc0-42cd-b0fd-26c7229c2516">
+<img width="601" alt="Screenshot 2023-11-03 at 6 14 11 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/20f6d0a2-cee4-427f-b816-3475a28cb74c">
+<img width="644" alt="Screenshot 2023-11-03 at 6 14 16 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/1feebafa-7e0f-43a5-b59b-3be77e1bff59">
+<img width="627" alt="Screenshot 2023-11-03 at 6 14 20 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/e0a8c55e-d2fc-47ef-8f73-966fc3f1bc94">
+<img width="634" alt="Screenshot 2023-11-03 at 6 14 25 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/d6ece9ed-4d6f-47eb-b4f3-24bf0447cae5">
+<img width="649" alt="Screenshot 2023-11-03 at 6 14 32 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/0be4b4c5-a642-48b4-90a1-069cff4a67c3">
+<img width="653" alt="Screenshot 2023-11-03 at 6 14 40 PM" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/65273281-c99c-4b1a-9af1-d003aa6374e7">
+
+
 ## Queries:
 <img width="710" alt="Query Matrix" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/38719c31-c030-440a-bc42-95b7d1faaa86">
 
