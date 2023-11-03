@@ -55,6 +55,7 @@ This clinic also stores many different medications, which we have organized in t
 ## Queries:
 
 <img width="710" alt="Query Matrix" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/38719c31-c030-440a-bc42-95b7d1faaa86">
+
 Query 1 lists the equipment ID and name of equipment that is not currently assigned to a room.
 <img width="927" alt="Query 1" src="https://github.com/dylanmcmorrow5/MIST4610GroupProject1/assets/148798141/2771356a-f2f2-45d3-b772-19ce114b9db4">
 The provided query is essential for management to identify equipment that is not currently assigned to any room, enabling efficient resource allocation and cost control. It would help managers identify which equipment could be allocated into rooms to ensure that they are maintaining operational efficiency within the medical center.
